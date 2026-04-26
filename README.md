@@ -16,11 +16,13 @@ Exercícios da disciplina de Linguagens de Programação — ADS Fatec Indaiatub
 
 
 1. Por que const para todas as variáveis? 
+
 Porque os dados não mudam durante a execução.
 
 ---
 
 2. O que é ``Math.ceil()``? 
+
 Arredonda um número para cima para o inteiro mais próximo.
 
 ---
@@ -56,7 +58,8 @@ Arredonda um número para cima para o inteiro mais próximo.
 ---
 
 7. O que é Node.js?
-    É um runtime (ambiente de execução) que permite rodar JavaScript FORA do navegador.
+
+   É um runtime (ambiente de execução) que permite rodar JavaScript FORA do navegador.
    Usa o motor V8 do Google Chrome.
    Antes do Node (até 2009): JS só rodava no browser.
    Depois do Node (2009+): JS roda no servidor, terminal, scripts, qualquer lugar.
