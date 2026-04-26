@@ -15,11 +15,13 @@ Exercícios da disciplina de Linguagens de Programação — ADS Fatec Indaiatub
 
 
 
-1. Por que const para todas as variáveis? Porque os dados não mudam durante a execução.
+1. Por que const para todas as variáveis? 
+Porque os dados não mudam durante a execução.
 
 ---
 
-2. O que é ``Math.ceil()``? Arredonda um número para cima para o inteiro mais próximo.
+2. O que é ``Math.ceil()``? 
+Arredonda um número para cima para o inteiro mais próximo.
 
 ---
 
@@ -30,7 +32,8 @@ Exercícios da disciplina de Linguagens de Programação — ADS Fatec Indaiatub
 
 ---
 
-4. Interpolar significa colocar o valor de uma variável dentro de uma string (texto). É basicamente misturar texto fixo com variáveis. Ou seja, o template literals.
+4. Interpolar significa colocar o valor de uma variável dentro de uma string (texto). 
+É basicamente misturar texto fixo com variáveis. Ou seja, o template literals.
     Exemplo: `Olá, ${nome}!` → usa crases e ``${}`` para inserir a variável.
 
 ---
